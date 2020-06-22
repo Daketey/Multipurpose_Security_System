@@ -12,6 +12,6 @@ An Alert system Developed using Arduino and Visual Studio's windows forms
 ### Work in progress:
 1. Application hides upon not detecting movement for a certain amount of time
 2. The captured images get uploaded to google drive for anywhere access
-3. sms system to stop receiving the images
+3. SMS system to stop receiving the calls
 4. Adding body detection for making it viable
 5. Changing your phone number through the forms application
