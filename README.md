@@ -4,7 +4,7 @@ An Alert system Developed using Arduino and Visual Studio's windows forms
 
 ## Features:
 1. Application starts upon sensing movement
-2. Detects the face(for now) of the intruder through facial recognition
+2. Detects the face(for now) of the intruder through facial detection
 3. A turret follows the position of intruder which you can use for your custom purpose
 4. Sends you a call alert repeatedly upon detecting an intruder
 5. Captures a picture of the intruder every 3 secs and saves them to your computer
