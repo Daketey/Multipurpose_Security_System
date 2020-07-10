@@ -8,7 +8,7 @@ An Alert system Developed using Arduino and Visual Studio's windows forms
 3. A turret follows the position of intruder which you can use for your custom purpose
 4. Sends you a call alert repeatedly upon detecting an intruder
 5. Captures a picture of the intruder every 3 secs and saves them to your computer
-6. Added face recogniton to train the application for the owner's face
+6. Added face recogniton to train the application for the owner's face (Almost complete)
 
 ### Work in progress:
 1. Application hides upon not detecting movement for a certain amount of time
